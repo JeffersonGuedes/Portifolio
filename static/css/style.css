@@ -622,6 +622,37 @@ main {
     background-color: darken(var(--primary-color), 10%);
 }
 
+.form-notification {
+    text-align: center;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    font-size: var(--font-size-medium);
+    font-weight: 600;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out, background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+    visibility: hidden;
+    min-height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-notification.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.form-notification.success {
+    background-color: #28a745;
+    color: var(--text-color-light);
+}
+
+.form-notification.error {
+    background-color: #dc3545;
+    color: var(--text-color-light);
+}
+
 footer {
     color: var(--text-color-gray);
     padding: 2rem;

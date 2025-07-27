@@ -291,11 +291,11 @@
             <div class="contact-info-grid">
                 <div class="contact-info-item">
                     <div class="icon-wrapper"><i class="fas fa-phone-alt"></i></div>
-                    <span>85 98901-6814</span>
+                    <span>+55 85 98901-6814</span>
                 </div>
                 <div class="contact-info-item">
                     <div class="icon-wrapper"><i class="fas fa-map-marker-alt"></i></div>
-                    <span>Fortaleza, Ceará</span>
+                    <span>Fortaleza, CE</span>
                 </div>
                 <div class="contact-info-item">
                     <div class="icon-wrapper"><i class="fas fa-envelope"></i></div>
@@ -303,18 +303,21 @@
                 </div>
                 <div class="contact-info-item">
                     <div class="icon-wrapper"><i class="fas fa-calendar-check"></i></div>
-                    <span>Freelance</span>
+                    <span>Freelance Available</span>
                 </div>
             </div>
 
-            <form class="contact-form">
+            <div id="form-message" class="form-notification"></div>
+
+            <form class="contact-form" id="contactForm"> <input type="hidden" name="_subject"
+                    value="Nova Mensagem do Portfólio de Jefferson Guedes!">
                 <div class="form-group-flex">
-                    <input type="text" id="fullName" name="fullName" placeholder="Nome" required>
-                    <input type="email" id="emailAddress" name="emailAddress" placeholder="Email" required>
+                    <input type="text" id="fullName" name="name" placeholder="Nome Completo" required>
+                    <input type="email" id="emailAddress" name="email" placeholder="Endereço de E-mail" required>
                 </div>
-                <input type="text" id="subject" name="subject" placeholder="Titulo">
-                <textarea id="message" name="message" rows="6" placeholder="Mensagem"></textarea>
-                <button type="submit" class="send-message-btn">Enviar Email</button>
+                <input type="text" id="subject" name="assunto" placeholder="Assunto da Mensagem">
+                <textarea id="message" name="message" rows="6" placeholder="Sua Mensagem"></textarea>
+                <button type="submit" class="send-message-btn">ENVIAR MENSAGEM</button>
             </form>
         </section>
     </main>
