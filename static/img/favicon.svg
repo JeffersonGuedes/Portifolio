@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Versão OEM) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.4871mm" height="11.1427mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 575.45 388.91"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="693" font-variant="normal" class="str1" style="fill-rule:nonzero" font-style="normal" font-weight="500">
+	<font-face 
+		font-family="Filson Soft Medium">
+		<font-face-src>
+			<font-face-name name="FilsonSoftMedium"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="G" horiz-adv-x="734" d="M417.002 -10.9998c73.9977,0 158.995,18.9985 236.999,76.9989 22.9979,17.0021 30.9966,35.0024 30.9966,57.0021l0 201.996c0,27.0038 -14.9992,42.0029 -41.9964,42.0029l-221.001 0c-26.9972,0 -42.0029,-14.9992 -42.0029,-42.0029l0 -16.9956c0,-27.0038 15.0057,-43.0011 42.0029,-43.0011l140.003 0 0 -123.001c-41.0047,-24.0026 -90.0016,-36.9989 -141.001,-36.9989 -162.003,0 -247,119.002 -247,243.999 0,137.002 102.998,246.002 236.999,246.002 46.0023,0 88.9969,-2.00294 155.002,-37.0054 25.0008,-11.998 43.9993,-8.9969 58.0003,14.001l18.0003 24.0026c13.9945,23.9961 10.9998,43.9993 -12.0046,58.9985 -65.0008,39.0018 -134.999,56.0039 -218.999,56.0039 -211,0 -371,-162.003 -371,-362.003 0,-196.999 155.002,-360 377.002,-360z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Filson Soft Medium";font-variant:normal;font-style:normal;font-weight:500;src:url("#FontID0") format(svg)}
+    .str1 {stroke-width:4.97;stroke-miterlimit:22.9256}
+    .str0 {stroke:#00AFEF;stroke-width:2.66;stroke-miterlimit:22.9256}
+    .fil1 {fill:#00AFEF}
+    .fil0 {fill:#00AFEF;fill-rule:nonzero}
+    .fnt0 {font-weight:500;font-size:534.97px;font-family:'Filson Soft Medium'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1985950074576">
+   <path class="fil0 str0" d="M145.24 384.37c97.37,0 153.54,-58.85 153.54,-172.8l0 -187.63c0,-14.44 -8.02,-22.49 -22.47,-22.47l-166.55 0.23c-14.44,0 -15.13,62.78 -0.68,62.76l119.08 -0.19 0 147.3c0,70.08 -28.89,110.74 -83.99,110.74 -53.5,0 -74.9,-38.52 -74.9,-78.11 0,-5.35 1.07,-14.44 4.28,-25.14 3.75,-14.98 -2.14,-23.54 -18.19,-23.54l-20.86 0c-12.3,0 -21.4,4.82 -25.68,16.59 -5.35,13.37 -7.49,29.42 -7.49,39.05 0,63.13 37.98,133.21 143.91,133.21z"/>
+   <text x="207.66" y="381.7"  class="fil1 str0 fnt0">G</text>
+  </g>
+ </g>
+</svg>
